@@ -1,0 +1,8 @@
+{
+  "name": "itp_exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SebastianN97/itp_exam_august2020.git",
+  "author": "SebastianN97 <sebbe132132@gmail.com>",
+  "license": "MIT"
+}
